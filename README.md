@@ -32,6 +32,7 @@ This repository demonstrates how to train and evaluate YOLOv5 on the Pascal VOC 
 ## **Acknowledgments**
 
 - YOLOv5 by [Ultralytics](https://github.com/ultralytics/yolov5).
+- Updated YOLOv5 for VOC dataset [here](https://github.com/joshmoy/yolov5.git)
 - Pascal VOC dataset: [http://host.robots.ox.ac.uk/pascal/VOC/](http://host.robots.ox.ac.uk/pascal/VOC/).
 
 ---
