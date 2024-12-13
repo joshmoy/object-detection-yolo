@@ -2,13 +2,13 @@
 
 This repository demonstrates how to train and evaluate YOLOv5 on the Pascal VOC dataset for object detection. The tutorial includes dataset preparation, model training, validation, and inference, enabling users to replicate the results and adapt them for custom object detection tasks.
 
-Note: This tutorial uses 20% of the Pascal VOC dataset for demonstration purposes to reduce training time. For full training, update the data/voc.yaml file to use the original train.txt and val.txt files.
+Note: This tutorial uses 20% of the Pascal VOC dataset for demonstration purposes to reduce training time. For full training, use the complete dataset.
 
 ## **Features**
 
 - Prepares the Pascal VOC dataset for YOLOv5 using XML to YOLO annotation conversion.
 - Trains YOLOv5 on the Pascal VOC 2012 dataset.
-- Evaluates the model using precision, recall, mAP, and confusion matrix.
+- Evaluate the model using precision, recall, mAP, and confusion matrix.
 - Runs inference to detect objects in test images.
 
 ---
